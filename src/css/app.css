@@ -1,0 +1,12 @@
+[v-cloak] {
+  display: none;
+}
+
+.linha {
+  border: solid 1px green;
+}
+
+.coluna {
+  border: dashed 1px red;
+  margin: 10px;
+}
